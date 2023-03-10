@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMesquitaOliveira&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMesquitaOliveira&layout=compact&theme=dracula)](https://github.com/GabrielMesquitaOliveira/github-readme-stats)
 ![snake gif](https://github.com/GabrielMesquitaOliveira/GabrielMesquitaOliveira/blob/output/github-contribution-grid-snake.svg)
