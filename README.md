@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-I am a passionate Full Stack Developer with a strong background in building ecommerce platforms that provide seamless online shopping experiences. My expertise includes developing and maintaining ecommerce websites, building custom web applications, integrating payment gateways, and ensuring optimal website performance. I am always eager to learn new technologies and apply them to real-world problems.
+I am a full stack developer with extensive experience in ecommerce development. I have a strong background in building custom ecommerce platforms using popular technologies such as React, Vue.js, Node.js, and PHP. With a keen eye for detail and a passion for building seamless user experiences, I have delivered high-quality ecommerce solutions for a diverse range of clients across multiple industries.
+
+Technical Skills
+Programming Languages: JavaScrip, PHP, Java
+Frontend Development: React, Angular, Vue.js, HTML, CSS, JavaScript, Jquery
+Backend Development: Node.js, Express, PHP, Java
+Database Technologies: MySQL, PostgreSQL, MongoDB
+Ecommerce Platforms: Shopify, WooCommerce, Magento, BigCommerce, OpenCart
+API Development: REST, GraphQL
+Other Tools: Git
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMesquitaOliveira&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMesquitaOliveira&hide_progress=true&theme=dracula)](https://github.com/GabrielMesquitaOliveira/github-readme-stats)
