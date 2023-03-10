@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMesquitaOliveira&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMesquitaOliveira&hide_progress=true&theme=dracula)](https://github.com/GabrielMesquitaOliveira/github-readme-stats)
 ![snake gif](https://github.com/GabrielMesquitaOliveira/GabrielMesquitaOliveira/blob/output/github-contribution-grid-snake.svg)
