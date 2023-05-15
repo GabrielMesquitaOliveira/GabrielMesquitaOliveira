@@ -11,8 +11,8 @@ Ecommerce Platforms: Shopify, WooCommerce, Magento, BigCommerce, OpenCart
 API Development: REST, GraphQL
 Other Tools: Git
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmesquitaoliveira&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMesquitaOliveira&hide_progress=true&theme=dracula)](https://github.com/GabrielMesquitaOliveira/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmesquitaoliveira&count_private=true&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmesquitaoliveira&hide_progress=true&theme=dracula)](https://github.com/gabrielmesquitaoliveira/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
