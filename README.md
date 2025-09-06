@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a full stack developer with extensive experience in ecommerce development. I have a strong background in building custom ecommerce platforms using popular technologies such as React, Vue.js, Node.js, and PHP. With a keen eye for detail and a passion for building seamless user experiences, I have delivered high-quality ecommerce solutions for a diverse range of clients across multiple industries.
+Senior Full Stack Developer with 5+ years building scalable applications from legacy mainframe systems to modern cloud solutions. Specialized in banking & fintech with proven expertise leading technical teams and modernizing mission-critical systems serving millions of users daily.
+
+Core Expertise: Legacy System Modernization • Microservices Architecture • Team Leadership • Banking Applications
 
 Technical Skills
 Programming Languages: JavaScrip, PHP, Java
