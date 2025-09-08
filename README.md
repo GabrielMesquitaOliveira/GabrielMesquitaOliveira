@@ -1,60 +1,82 @@
-### Hi there 👋
+# Hi there! 👋 I'm Gabriel Mesquita
 
-Senior Full Stack Developer with 5+ years building scalable applications from legacy mainframe systems to modern cloud solutions. Specialized in banking & fintech with proven expertise leading technical teams and modernizing mission-critical systems serving millions of users daily.
+## 🚀 Senior Full Stack Developer | Legacy Systems Modernization Expert
 
-Core Expertise: Legacy System Modernization • Microservices Architecture • Team Leadership • Banking Applications
+**Bridging the gap between legacy mainframe systems and modern cloud architecture**
 
-Technical Skills
-Programming Languages: JavaScrip, PHP, Java
-Frontend Development: React, Angular, Vue.js, HTML, CSS, JavaScript, Jquery
-Backend Development: Node.js, Express, PHP, Java
-Database Technologies: MySQL, PostgreSQL, MongoDB
-Ecommerce Platforms: Shopify, WooCommerce, Magento, BigCommerce, OpenCart
-API Development: REST, GraphQL
-Other Tools: Git
+🏦 Currently working at **Caixa Econômica Federal** - Brazil's largest public bank  
+🔧 Specialized in **COBOL → Java Quarkus** migration and **Angular** applications  
+💳 Focused on **Payment Methods** and **Credit Card** systems serving millions of users daily
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmesquitaoliveira&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmesquitaoliveira&hide_progress=true&theme=dracula)](https://github.com/gabrielmesquitaoliveira/github-readme-stats)
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  
-  
-</div>
+### 🛠️ Tech Stack
 
+**Legacy Systems:**
+- ![COBOL](https://img.shields.io/badge/COBOL-003f7f?style=flat-square&logo=ibm&logoColor=white)
+- ![Mainframe](https://img.shields.io/badge/IBM_Mainframe-054ada?style=flat-square&logo=ibm&logoColor=white)
+- ![DB2](https://img.shields.io/badge/DB2-003545?style=flat-square&logo=ibm&logoColor=white)
 
-### Database
+**Modern Stack:**
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![Quarkus](https://img.shields.io/badge/Quarkus-4695eb?style=flat-square&logo=quarkus&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 
-<div style="display: inline_block">
+**Full Stack:**
+- ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
 
-<!--databases-->
-<img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+**Mobile & DevOps:**
+- ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white)
 
+---
 
+### 💼 Professional Focus
 
+- 🏛️ **Banking & Fintech** - Mission-critical applications processing millions of transactions
+- 🔄 **Legacy Modernization** - Migrating COBOL mainframe systems to modern microservices
+- 📱 **Mobile Banking** - Android apps with biometric auth and advanced security
+- 🇧🇷 **Government APIs** - eSocial, ETV integrations for compliance systems
+- 🛒 **E-commerce** - High-performance solutions across 7+ platforms (WooCommerce, Shopify, VTEX, etc.)
 
-</div>
+### 🎯 Current Projects
 
+- 🔧 **COBOL-to-Quarkus Migration** - Leading modernization of critical banking systems
+- 📊 **Branch Operations Platform** - Angular applications for customer service
+- 🔐 **Banking Security Utils** - Android security libraries for financial apps
+- 🇧🇷 **Brazilian Gov APIs SDK** - Simplifying eSocial and ETV integrations
 
+### 📊 GitHub Stats
 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMesquitaOliveira&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/GabrielMesquitaOliveira/GabrielMesquitaOliveira/blob/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMesquitaOliveira&layout=compact&theme=radical)
+
+---
+
+### 🏆 Certifications & Recognition
+
+- 🥇 **IBM Mainframe Developer Professional Certificate**
+- 🥇 **IBM z/OS Mainframe Practitioner**
+- ⚡ **CAIXAVERSO Dev Back-end Java Level III**
+- 📐 **Angular 17 Specialization**
+- 🌐 **7 E-commerce Platform Certifications**
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-mesquita-oliveira-4910372a1/)
+- 📧 [Email](mailto:gabrielmesquita0503@gmail.com)
+- 🌐 [Portfolio](https://gabrielmesquita.dev)
+- 📍 Brasília, Brazil
+
+---
+
+**"Transforming legacy systems into modern, scalable solutions while maintaining the reliability that businesses depend on."**
+
+⭐ **Fun fact:** I'm one of the few developers who can write COBOL in the morning and React in the afternoon! 💻
