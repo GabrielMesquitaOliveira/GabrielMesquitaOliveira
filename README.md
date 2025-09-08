@@ -13,9 +13,7 @@
 ### 🛠️ Tech Stack
 
 **Legacy Systems:**
-- ![COBOL](https://img.shields.io/badge/COBOL-003f7f?style=flat-square&logo=ibm&logoColor=white)
-- ![Mainframe](https://img.shields.io/badge/IBM_Mainframe-054ada?style=flat-square&logo=ibm&logoColor=white)
-- ![DB2](https://img.shields.io/badge/DB2-003545?style=flat-square&logo=ibm&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-003f7f?style=flat-square&logo=ibm&logoColor=white) ![Mainframe](https://img.shields.io/badge/IBM_Mainframe-054ada?style=flat-square&logo=ibm&logoColor=white) ![DB2](https://img.shields.io/badge/DB2-003545?style=flat-square&logo=ibm&logoColor=white)
 
 **Modern Stack:**
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -44,21 +42,6 @@
 - 📱 **Mobile Banking** - Android apps with biometric auth and advanced security
 - 🇧🇷 **Government APIs** - eSocial, ETV integrations for compliance systems
 - 🛒 **E-commerce** - High-performance solutions across 7+ platforms (WooCommerce, Shopify, VTEX, etc.)
-
-### 🎯 Current Projects
-
-- 🔧 **COBOL-to-Quarkus Migration** - Leading modernization of critical banking systems
-- 📊 **Branch Operations Platform** - Angular applications for customer service
-- 🔐 **Banking Security Utils** - Android security libraries for financial apps
-- 🇧🇷 **Brazilian Gov APIs SDK** - Simplifying eSocial and ETV integrations
-
-### 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMesquitaOliveira&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMesquitaOliveira&layout=compact&theme=radical)
-
----
 
 ### 🏆 Certifications & Recognition
 
