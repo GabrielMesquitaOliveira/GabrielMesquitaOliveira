@@ -4,10 +4,7 @@
 
 **Bridging the gap between legacy mainframe systems and modern cloud architecture**
 
-🏦 Currently working at **Caixa Econômica Federal** - Brazil's largest public bank  
-🔧 Specialized in **COBOL → Java Quarkus** migration and **Angular** applications  
-💳 Focused on **Payment Methods** and **Credit Card** systems serving millions of users daily
-
+[cite_start]I am a Senior Full Stack Developer and Tech Lead with over 5 years of experience building scalable web and mobile applications[cite: 1, 2, 6, 13]. [cite_start]I have a proven track record of architecting microservices and delivering high-availability systems that process millions of daily transactions across the banking, fintech, and e-commerce sectors[cite: 6, 8].
 ---
 
 ### 🛠️ Tech Stack
