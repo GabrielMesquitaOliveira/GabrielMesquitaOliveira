@@ -8,7 +8,7 @@ I am a Senior Full Stack Developer and Tech Lead with over 5 years of experience
 
 ---
 
-### 🛠️ The Ultimate Tech Stack
+### 🛠️ My Tech Stack
 
 **Legacy & Enterprise Systems**
 
