@@ -1,57 +1,44 @@
-# Hi there! 👋 I'm Gabriel Mesquita
+# Gabriel Mesquita Oliveira
 
-## 🚀 Senior Full Stack Developer | Legacy Systems Modernization Expert
+**Senior Full Stack Developer | Technical Lead | Legacy Systems Modernization Specialist**
 
-**Bridging the gap between legacy mainframe systems and modern cloud architecture**
-
-[cite_start]I am a Senior Full Stack Developer and Tech Lead with over 5 years of experience building scalable web and mobile applications[cite: 1, 2, 6, 13]. [cite_start]I have a proven track record of architecting microservices and delivering high-availability systems that process millions of daily transactions across the banking, fintech, and e-commerce sectors[cite: 6, 8].
----
-
-### 🛠️ Tech Stack
-
-**Legacy Systems:**
-
-![COBOL](https://img.shields.io/badge/COBOL-003f7f?style=flat-square&logo=ibm&logoColor=white) ![Mainframe](https://img.shields.io/badge/IBM_Mainframe-054ada?style=flat-square&logo=ibm&logoColor=white) ![DB2](https://img.shields.io/badge/DB2-003545?style=flat-square&logo=ibm&logoColor=white)
-
-**Modern Stack:**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695eb?style=flat-square&logo=quarkus&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-
-**Full Stack:**
-
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-
-**Mobile & DevOps:**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white)
+[cite_start]I am a Senior Full Stack Developer and Tech Lead with over 5 years of experience engineering scalable web and mobile applications[cite: 6, 13]. [cite_start]I have a proven track record of leading technical teams, architecting microservices, and delivering high-availability systems that process millions of daily transactions across the banking, fintech, and e-commerce sectors[cite: 6, 8]. My primary focus lies in bridging the gap between legacy infrastructure and modern cloud architectures.
 
 ---
 
-### 💼 Professional Focus
+### 💼 Professional Highlights & Impact
 
-- 🏛️ **Banking & Fintech** - Mission-critical applications processing millions of transactions
-- 🔄 **Legacy Modernization** - Migrating COBOL mainframe systems to modern microservices
-- 📱 **Mobile Banking** - Android apps with biometric auth and advanced security
-- 🇧🇷 **Government APIs** - eSocial, ETV integrations for compliance systems
-- 🛒 **E-commerce** - High-performance solutions across 7+ platforms (WooCommerce, Shopify, VTEX, etc.)
-
-### 🏆 Certifications & Recognition
-
-- 🥇 **IBM Mainframe Developer Professional Certificate**
-- 🥇 **IBM z/OS Mainframe Practitioner**
-- ⚡ **CAIXAVERSO Dev Back-end Java Level III**
-- 📐 **Angular 17 Specialization**
-- 🌐 **7 E-commerce Platform Certifications**
-
-### 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-mesquita-oliveira-4910372a1/)
-- 📧 [Email](mailto:gabrielmesquita0503@gmail.com)
-- 🌐 [Portfolio](https://gabrielmesquita.dev)
-- 📍 Brasília, Brazil
+* [cite_start]**Legacy Modernization:** Led the migration of legacy COBOL mainframe systems to modern Java Quarkus microservices architectures, improving system performance by 40% and reducing deployment times by 60%[cite: 25].
+* [cite_start]**High-Availability Systems:** Architected and implemented RESTful microservices capable of handling 100,000+ daily requests while maintaining 99.5% availability[cite: 35].
+* [cite_start]**Process Optimization:** Reduced Android device image update times by 80% through automated batch processing, significantly improving production efficiency for manufacturing workflows[cite: 14].
+* [cite_start]**Compliance Integration:** Successfully integrated Brazilian government APIs (eSocial, ETV) to ensure 100% compliance for corporate platforms handling medical certificates and accident reporting[cite: 45].
+* [cite_start]**Technical Leadership:** Mentored junior developers, established rigorous coding standards, and implemented comprehensive CI/CD pipelines (Jenkins, Docker) that reduced release cycle times from weeks to days[cite: 17, 19, 28].
 
 ---
 
-**"Transforming legacy systems into modern, scalable solutions while maintaining the reliability that businesses depend on."**
+### 🛠️ Technical Expertise
 
-⭐ **Fun fact:** I'm one of the few developers who can write COBOL in the morning and React in the afternoon! 💻
+* [cite_start]**Core Languages:** Java, JavaScript, TypeScript, Python, PHP, Kotlin, COBOL[cite: 25, 72].
+* [cite_start]**Backend & APIs:** Spring Boot, Quarkus, Node.js, Express.js, Laravel, FastAPI, GraphQL, RESTful APIs[cite: 3, 15, 75, 76].
+* [cite_start]**Frontend Technologies:** React, Angular, Vue.js, Next.js, HTML5, CSS3, Tailwind CSS[cite: 90, 91].
+* [cite_start]**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Oracle, DB2[cite: 79].
+* [cite_start]**Cloud & DevOps:** AWS, Google Cloud (GCP), Azure, Docker, Kubernetes, CI/CD, Jenkins, Git, Terraform[cite: 3, 16, 96].
+* [cite_start]**Testing & Quality:** Jest, JUnit, Selenium, Test-Driven Development (TDD), achieving 90%+ code coverage across enterprise projects[cite: 18, 37, 99].
+
+---
+
+### 🏆 Key Certifications
+
+* [cite_start]**IBM Mainframe Developer Professional Certificate** [cite: 118]
+* [cite_start]**IBM z/OS Mainframe Practitioner Professional** [cite: 118]
+* [cite_start]**CAIXAVERSO Back-end Java Developer Level** [cite: 118]
+* [cite_start]**Angular 17 Specialization** (Coursera) [cite: 118]
+* [cite_start]**Software Architecture & System Design** (Ada Tech) [cite: 118]
+
+---
+
+### 📫 Connect With Me
+
+* [cite_start]**LinkedIn:** [gabriel-mesquita-oliveira](https://linkedin.com/in/gabriel-mesquita-oliveira) [cite: 141, 143]
+* [cite_start]**GitHub:** [GabrielMesquitaOliveira](https://github.com/GabrielMesquitaOliveira) [cite: 142, 144]
+* [cite_start]**Portfolio:** [portfolio-3q2e.vercel.app](https://portfolio-3q2e.vercel.app) [cite: 145, 146]
