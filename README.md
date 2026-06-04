@@ -4,7 +4,7 @@
 
 **Bridging the gap between legacy mainframe systems and modern cloud architecture**
 
-I am a Senior Full Stack Developer and Tech Lead with over 5 years of experience building scalable web and mobile applications. I have a proven track record of architecting microservices and delivering high-availability systems that process millions of daily transactions across the banking, fintech, and e-commerce sectors.
+I am a Senior Full Stack Developer and Tech Lead with over 10 years of experience building scalable web and mobile applications. I have a proven track record of architecting microservices and delivering high-availability systems that process millions of daily transactions across the banking, fintech, and e-commerce sectors.
 
 ---
 
